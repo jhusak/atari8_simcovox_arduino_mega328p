@@ -13,6 +13,8 @@ even for your pets.
 
 The code for Atmega328p was adopted from another project, so some settings are unneccessary.
 
+The best working version of Arduino is that with 16MHz and 3.3V stabilizer to cut off digital noise from computer.
+
 ![schematics](simcovox_atmega.png)
 
 I do not want to spend more time cleaning up the code, it works as it is.
