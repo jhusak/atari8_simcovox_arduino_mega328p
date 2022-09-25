@@ -11,6 +11,8 @@ even for your pets.
 
 The code for Atmega328p was adopted from another project, so some settings are unneccessary.
 
+![schematics](simcovox_atmega.png)
+
 I do not want to make too much time spending cleaning up the code, it works as it is.
 
 
